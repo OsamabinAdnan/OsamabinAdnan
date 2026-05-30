@@ -70,14 +70,20 @@ const osama = {
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamabinAdnan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsamabinAdnan&theme=tokyonight" alt="Top Languages by Repo" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OsamabinAdnan&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OsamabinAdnan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=OsamabinAdnan&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=OsamabinAdnan&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+</div>
 
 ## 📈 Contribution Snake
 
