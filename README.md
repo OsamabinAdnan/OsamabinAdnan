@@ -65,19 +65,20 @@ const osama = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OsamabinAdnan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OsamabinAdnan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OsamabinAdnan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamabinAdnan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=OsamabinAdnan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OsamabinAdnan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OsamabinAdnan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/github/stars/OsamabinAdnan?style=for-the-badge&logo=github&color=yellow" alt="Total Stars" />
+  <img src="https://img.shields.io/github/commit-activity/m/OsamabinAdnan/OsamabinAdnan?style=for-the-badge&logo=github&color=blue" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/last-commit/OsamabinAdnan/OsamabinAdnan?style=for-the-badge&logo=github&color=green" alt="Last Commit" />
 </p>
 
 ## 📈 Contribution Snake
